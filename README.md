@@ -1,4 +1,4 @@
-# OMAD
+# OMAD: Object Model with Articulated Deformations
 
 This repository is the official implementation of the paper "OMAD: Object Model with Articulated
 Deformations for Pose Estimation and
